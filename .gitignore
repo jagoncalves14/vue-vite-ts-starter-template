@@ -36,3 +36,6 @@ dist-ssr
 
 # unplugin
 *.d.ts
+
+#Environment variables
+.env*
